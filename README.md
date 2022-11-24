@@ -14,7 +14,7 @@ https://toggle-button-gif-pricing.vercel.app/
 
 ## Screenshots
 
-<img src="/public/img/screenshot.png" width="200">
+<img src="/public/img/screenshot.png" width="300">
 
 ## Project setup 
 ```
